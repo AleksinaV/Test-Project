@@ -1,5 +1,5 @@
 def print_hello():
-    print("Hello")
+    print("Good morning")
 
 
 print_hello()
