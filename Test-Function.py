@@ -1,5 +1,5 @@
-def print_hello():
-    print("Good evening")
+def print_hello(name):
+    print(f"Good morning. {name}")
 
 
-print_hello()
+print_hello("Kate")
